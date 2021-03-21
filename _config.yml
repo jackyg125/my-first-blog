@@ -1,10 +1,10 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/ my-first-blog "
+baseurl: "/my-first-blog"
 
 # 网站的主标题
 title: "OWL's world"
 # 网站副标题
-subTitle: "科普记录"
+subTitle: "猫头鹰科普转载小站"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
